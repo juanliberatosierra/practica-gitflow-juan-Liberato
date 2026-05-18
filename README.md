@@ -24,6 +24,10 @@ npm install
 ~~~
 
 ## Uso
+## Información adicional
+
+Esta API fue desarrollada para practicar Git Flow usando ramas feature, release y hotfix.
+Nota temporal de documentación extra.
 
 Levantar el servidor local:
 
