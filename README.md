@@ -24,10 +24,6 @@ npm install
 ~~~
 
 ## Uso
-## Información adicional
-
-Esta API fue desarrollada para practicar Git Flow usando ramas feature, release y hotfix.
-Nota temporal de documentación extra.
 
 Levantar el servidor local:
 
@@ -56,6 +52,10 @@ Si usas navegador, abre:
 ~~~text
 http://localhost:3000/api/estado
 ~~~
+
+## Información adicional
+
+Esta API fue desarrollada para practicar Git Flow usando ramas feature, release y hotfix.
 
 ## Autores
 
