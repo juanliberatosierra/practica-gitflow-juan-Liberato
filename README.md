@@ -53,6 +53,10 @@ Si usas navegador, abre:
 http://localhost:3000/api/estado
 ~~~
 
+## Información adicional
+
+Esta API fue desarrollada para practicar Git Flow usando ramas feature, release y hotfix.
+
 ## Autores
 
 - Juan Camilo Liberato Sierra - Desarrollo y documentación
