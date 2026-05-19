@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Práctica Git Flow
 
 ## Descripción
 
@@ -73,3 +73,6 @@ Durante la práctica se usará Git Flow:
 - hotfix/readme-typo: rama para corregir un error menor.
 
 La versión final se marcará con el tag v1.0.0.
+## Estado de la versión
+
+La versión 1.0.0 fue preparada siguiendo el flujo Git Flow con ramas feature, release y hotfix.
