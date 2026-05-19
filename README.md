@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Práctica Git Flow
 
 ## Descripción
 
